@@ -6,7 +6,7 @@
 ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
 
-### Acesse a aplicação: [https://libralingo-production.up.railway.app)
+### Acesse a aplicação: https://libralingo-production.up.railway.app
 
 
 ## Sobre o Projeto
